@@ -1,12 +1,12 @@
 {
-    "version": "2.6.0",
+    "version": "2.7.0",
     "description": "High-performance, AI-native CLI tool for tabular data processing",
     "homepage": "https://github.com/KoalaFacts/HeroParser",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/KoalaFacts/HeroParser/releases/download/v2.6.0/heroparser-v2.6.0-win-x64.zip",
-            "hash": "9a8cf48f2204008ae63244d2cc87a6b5a8bc9427f238fff58c49cdc512affe40"
+            "url": "https://github.com/KoalaFacts/HeroParser/releases/download/v2.7.0/heroparser-v2.7.0-win-x64.zip",
+            "hash": "5aa94ef06ee6e2dd3f4c83f103adfa975d1f737ba4977c6b6e1bb07eeab32848"
         }
     },
     "bin": "heroparser.exe",
